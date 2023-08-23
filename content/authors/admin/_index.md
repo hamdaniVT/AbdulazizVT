@@ -35,15 +35,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: Virginia Tech
+      year: 2024
+    - course: MS in Computer Science
+      institution: University of New Hampshire
+      year: 2015
+    - course: MA in European Languages English Literature
+      institution: King Abdulaziz University
+      year: 2010
+    - course: BA in English Linguistics and Literature
+      institution: Umm Al-Qura University
+      year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
