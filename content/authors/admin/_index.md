@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu عبدالعزيز الهمداني
+title: Abdulaziz Alhamadani عبدالعزيز الهمداني
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Abdulaziz
+last_name: Alhamadani
 
 # Status emoji
 status:
