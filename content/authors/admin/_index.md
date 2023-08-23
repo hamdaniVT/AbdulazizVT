@@ -18,6 +18,11 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Sanghani Center for Artificial Intelligence and Data Analytics
+    url: https://sanghani.cs.vt.edu/
+    
+# Organizations/Affiliations to show in About widget
+organizations:
   - name: Virginia Tech
     url: https://www.vt.edu/
 
