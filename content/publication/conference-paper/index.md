@@ -10,7 +10,7 @@ abstract: The Twitter platform is appealing to researchers due to the ease of
   larger dataset is achieved by following the proposed guideline. The results
   indicate that using multiple Twitter application programming interfaces (APIs)
   for data collection is the best way to obtain a randomly sampled dataset.
-slides: example
+slides: ""
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-46140-9_11
 publication_types:
   - "1"
