@@ -21,8 +21,8 @@ sections:
           icon_pack: fas
         - name: Productivity Framework
           description: Pytorch, Toad(Oracle), SAP HANA, Android SDK, Tableau
-          icon: chart-line
-          icon_pack: fas
+          icon: uncharted
+          icon_pack: fab
         - name: Photography
           description: 10%
           icon: camera-retro
