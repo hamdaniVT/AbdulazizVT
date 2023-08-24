@@ -17,8 +17,8 @@ sections:
       items:
         - name: Programming
           description: 90%
-          icon: r-code
-          icon_pack: fab
+          icon: code
+          icon_pack: fas
         - name: Statistics
           description: 100%
           icon: chart-line
