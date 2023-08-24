@@ -24,7 +24,7 @@ organizations:
     url: https://sanghani.cs.vt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ML applications, text classification, event detection, pandemic forecasting, and ethical AI. 
 
 # Interests to show in About widget
 interests:
