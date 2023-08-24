@@ -26,11 +26,11 @@ publication: "Information Management and Big Data: 6th International Conference,
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_project: ""
+#url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+#url_project: ""
 publication_short: In *SimBig*
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+#url_video: https://youtube.com
 title: "Collect Ethically: Reduce Bias in Twitter Datasets"
 doi: ""
 featured: false
@@ -45,7 +45,7 @@ date: 2013-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
