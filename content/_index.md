@@ -16,7 +16,7 @@ sections:
       title: Skills
       items:
         - name: Professional
-          description: Python
+          description: Research,Communication,Leadship,Problem-solving,Team Collaboration
           icon: user-tie
           icon_pack: fas
         - name: Programming
@@ -27,10 +27,10 @@ sections:
           description: Pytorch, Toad(Oracle), SAP HANA, Android SDK, Tableau
           icon: microchip
           icon_pack: fas
-        - name: Languages
-          description: Arabic,English
-          icon: language
-          icon_pack: fas
+       # - name: Languages
+        #  description: Arabic,English
+         # icon: language
+         # icon_pack: fas
   - block: experience
     content:
       title: Experience
