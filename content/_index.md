@@ -15,6 +15,10 @@ sections:
     content:
       title: Skills
       items:
+        - name: Professional
+          description: Python
+          icon: user-tie
+          icon_pack: fas
         - name: Programming
           description: Python, Java, C++, R, SQL, PL/SQL, ABAP
           icon: code
