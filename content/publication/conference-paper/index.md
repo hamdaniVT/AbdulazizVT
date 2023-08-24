@@ -28,7 +28,7 @@ publication: "Information Management and Big Data: 6th International Conference,
 publication_short: In *SimBig*
 featured: false
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  #caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
   filename: featured.jpg
