@@ -17,7 +17,7 @@ sections:
       items:
         - name: Programming
           description: 90%
-          icon: code
+          icon: r-code
           icon_pack: fab
         - name: Statistics
           description: 100%
