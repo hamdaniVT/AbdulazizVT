@@ -2,6 +2,10 @@
 title: Sanghani Center research takes new approach to analyze depression,
   anxiety from Reddit posts to provide better care, lower suicide rate
 date: 2023-08-24T18:20:34.169Z
+summary: "The team's approach received the Best Paper Award at the IEEE/ACM
+  International Conference on Advances in Social Networks Analysis and Mining in
+  November 2022 for their work on \"Predicting Depression and Anxiety on Reddit:
+  a Multi-task Learning Approach.\""
 draft: false
 featured: false
 image:
