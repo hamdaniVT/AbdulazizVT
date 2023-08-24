@@ -27,7 +27,7 @@ abstract: The COVID-19 pandemic has had a tremendous impact on businesses,
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: sve.jpg
   focal_point: Smart
   preview_only: false
 date: 2023-08-24T06:31:40.730Z
