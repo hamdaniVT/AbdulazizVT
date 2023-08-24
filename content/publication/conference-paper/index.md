@@ -1,4 +1,5 @@
 ---
+title: "Collect Ethically: Reduce Bias in Twitter Datasets"
 abstract: The Twitter platform is appealing to researchers due to the ease of
   obtaining data and the ability to analyze and produce results rapidly.
   However, sampling Twitter data for research purposes needs to be regulated to
@@ -21,31 +22,24 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
+doi: ""
 publication: "Information Management and Big Data: 6th International Conference,
   SIMBig 2019, Lima, Peru, August 21–23, 2019, Proceedings 6"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
-#url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-#url_project: ""
 publication_short: In *SimBig*
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-#url_video: https://youtube.com
-title: "Collect Ethically: Reduce Bias in Twitter Datasets"
-doi: ""
 featured: false
-tags: []
-projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-date: 2019-07-01T00:00:00Z
+summary: ""
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+date: 2019-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+tags: []
+projects: []
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-#url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
