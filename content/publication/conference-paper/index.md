@@ -26,7 +26,7 @@ url_project: ""
 publication_short: In *ICW*
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
-title: An example conference paper
+title: "Collect Ethically: Reduce Bias in Twitter Datasets"
 doi: ""
 featured: false
 tags: []
