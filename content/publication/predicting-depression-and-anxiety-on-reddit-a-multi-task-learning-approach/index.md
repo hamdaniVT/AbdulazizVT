@@ -28,7 +28,7 @@ abstract: One of the strongest indicators of a mental health crisis is how
   approach in order to tackle the lack of standardized fine-grained label data
   for this specific task.
 draft: false
-featured: true
+featured: false
 image:
   filename: ammnet.jpg
   focal_point: Smart
