@@ -16,7 +16,7 @@ sections:
       title: Skills
       items:
         - name: Programming
-          description: 90%
+          description: Python, Java, C++, R, SQL, PL/SQL, ABAP
           icon: code
           icon_pack: fas
         - name: Statistics
