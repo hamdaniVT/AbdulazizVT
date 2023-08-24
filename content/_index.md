@@ -23,9 +23,9 @@ sections:
           description: Pytorch, Toad(Oracle), SAP HANA, Android SDK, Tableau
           icon: microchip
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Languages
+          description: Arabic,English
+          icon: language
           icon_pack: fas
   - block: experience
     content:
