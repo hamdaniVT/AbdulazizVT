@@ -35,8 +35,7 @@ title: "Collect Ethically: Reduce Bias in Twitter Datasets"
 doi: ""
 featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
