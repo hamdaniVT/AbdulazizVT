@@ -85,6 +85,6 @@ email: ''
 highlight_name: true
 ---
 
-I'm Abdulaziz Alhamadani, a dedicated researcher and an artificial intelligence enthusiast, currently pursuing a Ph.D. in Computer Science at Virginia Tech. My expected graduate date is May 2024. 
+I'm Abdulaziz Alhamadani, a dedicated researcher and an artificial intelligence enthusiast, currently pursuing a Ph.D. in Computer Science at Virginia Tech. My expected graduation date is May 2024. 
 My major research interests span machine learning, data mining, and deep learning, and minoring in ML applications, text classification, event detection, pandemic forecasting, and ethical AI. With a portfolio that includes journal and conference papers, I actively contribute to the advancement of my field. Beyond academia, I've honed leadership skills through roles such as Graduate Student Assembly President at Virginia Tech, showcasing my collaborative mindset. I'm fueled by the potential of technology to drive positive change and am committed to harnessing my expertise to make a lasting impact. Outside of my academic pursuits, you might find me playing/coaching soccer or fishing.
 {style="text-align: justify;"}
