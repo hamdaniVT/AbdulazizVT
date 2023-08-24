@@ -19,8 +19,8 @@ sections:
           description: Python, Java, C++, R, SQL, PL/SQL, ABAP
           icon: code
           icon_pack: fas
-        - name: Statistics
-          description: 100%
+        - name: Productivity Framework
+          description: Pytorch, Toad(Oracle), SAP HANA, Android SDK
           icon: chart-line
           icon_pack: fas
         - name: Photography
