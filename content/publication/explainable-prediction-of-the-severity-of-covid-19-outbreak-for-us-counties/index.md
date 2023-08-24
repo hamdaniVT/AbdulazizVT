@@ -31,7 +31,7 @@ abstract: Ever since the COVID-19 outbreak, various works have focused on using
 draft: false
 featured: false
 image:
-  filename: https://ieeexplore.ieee.org/abstract/document/10020969
+  filename: bd22_shailik.jpg
   focal_point: Smart
   preview_only: false
 date: 2023-08-24T16:26:48.952Z
