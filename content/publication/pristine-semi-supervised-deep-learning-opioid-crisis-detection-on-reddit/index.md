@@ -7,9 +7,10 @@ authors:
   - Shailik Sarkar
   - Lulwah Alkulaib
   - Chang-Tien Lu
+doi: 10.1109/ASONAM55673.2022.10068721
 publication: "Proceedings of the 2022 IEEE/ACM International Conference on
   Advances in Social Networks Analysis and Mining "
-publication_short: in "IEEE/ACM ASONAM"
+publication_short: in "IEEE/ACM ASONAM 2022"
 abstract: The drug abuse epidemic has been on the rise in the past few years,
   particularly after the start of COVID-19 pandemic. Our preliminary
   observations on Reddit alone show that discussions on drugs from 2018 to 2020
