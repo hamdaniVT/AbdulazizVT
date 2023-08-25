@@ -6,6 +6,7 @@ authors:
   - Shailik Sarkar
   - admin
   - Chang-Tien Lu
+doi: 10.1109/BigData55660.2022.10020969
 publication: 2022 IEEE International Conference on Big Data
 publication_short: in "IEEE Big Data 2022"
 abstract: Ever since the COVID-19 outbreak, various works have focused on using
