@@ -1,5 +1,4 @@
 ---
-title: "Collect Ethically: Reduce Bias in Twitter Datasets"
 abstract: The Twitter platform is appealing to researchers due to the ease of
   obtaining data and the ability to analyze and produce results rapidly.
   However, sampling Twitter data for research purposes needs to be regulated to
@@ -12,6 +11,7 @@ abstract: The Twitter platform is appealing to researchers due to the ease of
   for data collection is the best way to obtain a randomly sampled dataset.
 slides: ""
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-46140-9_11
+title: "Collect Ethically: Reduce Bias in Twitter Datasets"
 publication_types:
   - "1"
 authors:
@@ -25,19 +25,16 @@ author_notes:
 doi: ""
 publication: "Information Management and Big Data: 6th International Conference,
   SIMBig 2019, Lima, Peru, August 21–23, 2019, Proceedings 6"
-publication_short: In *SimBig*
+publication_short: In *SimBig 2019*
 featured: false
+tags: []
+projects: []
 image:
-  #caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
   filename: featured.jpg
 summary: ""
-#url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 date: 2019-07-01T00:00:00.000Z
-#url_slides: ""
-tags: []
-projects: []
 publishDate: 2019-01-01T00:00:00.000Z
 url_poster: ""
 ---
