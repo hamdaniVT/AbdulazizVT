@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Alhamadani
+title: 
 date: 2023-08-24
 type: landing
 
