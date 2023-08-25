@@ -10,7 +10,7 @@ authors:
   - Lulwah Alkulaib
   - Chang-Tien Lu
 publication: 2021 IEEE International Conference on Big Data
-publication_short: in "Big Data"
+publication_short: in "IEEE Big Data 2021"
 abstract: Existing COVID-19 prediction models focus on studying the dynamic
   nature of the virus spread by using pandemic-related temporal data. In this
   paper, we present a work that exclusively uses comprehensive socioeconomic
