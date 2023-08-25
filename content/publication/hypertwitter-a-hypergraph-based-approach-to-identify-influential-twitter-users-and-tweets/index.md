@@ -8,6 +8,7 @@ authors:
   - admin
   - Shailik Sarkar
   - Chang-Tien Lu
+doi: 10.1109/BigData55660.2022.10020571
 publication: "2022 IEEE International Conference on Big Data "
 publication_short: in "IEEE Big Data 2022"
 abstract: "Social media platforms have become an easy method of communication
