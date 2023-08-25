@@ -9,6 +9,7 @@ authors:
   - Lei Zhang
   - Lulwah Alkulaib
   - Chang-Tien Lu
+doi: https://doi.org/10.1109/BigData52589.2021.9671896
 publication: 2021 IEEE International Conference on Big Data
 publication_short: in "IEEE Big Data 2021"
 abstract: Existing COVID-19 prediction models focus on studying the dynamic
