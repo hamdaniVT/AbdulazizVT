@@ -14,7 +14,7 @@ authors:
 doi: 10.18653/v1/2020.emnlp-main.671
 publication: Proceedings of the 2020 Conference on Empirical Methods in Natural
   Language Processing (EMNLP)
-publication_short: in "EMNLP"
+publication_short: in "EMNLP 2020"
 abstract: The uncertainty measurement of classified results is especially
   important in areas requiring limited human resources for higher accuracy. For
   instance, data-driven algorithms diagnosing diseases need accurate uncertainty
