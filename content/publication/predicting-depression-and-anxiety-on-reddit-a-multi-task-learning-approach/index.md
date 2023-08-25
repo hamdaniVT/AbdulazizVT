@@ -7,9 +7,10 @@ authors:
   - admin
   - Lulwah Alkulaib
   - Chang-Tien Lu
+doi: 10.1109/ASONAM55673.2022.10068655
 publication: Proceedings of the 2022 IEEE/ACM International Conference on
   Advances in Social Networks Analysis and Mining
-publication_short: in "IEEE/ACM ASONAM"
+publication_short: in "IEEE/ACM ASONAM 2022"
 abstract: One of the strongest indicators of a mental health crisis is how
   people interact with each other or express them-selves. Hence, social media is
   an ideal source to extract user-level information about the language used to
