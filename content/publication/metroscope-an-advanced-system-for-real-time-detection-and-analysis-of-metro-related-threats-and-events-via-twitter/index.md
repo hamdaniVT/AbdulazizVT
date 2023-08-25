@@ -12,6 +12,7 @@ authors:
   - Chang-Tien Lu
   - David Solnick
   - Yanlin Li
+doi: https://doi.org/10.1145/3539618.3591807
 publication: Proceedings of the 46th International ACM SIGIR Conference on
   Research and Development in Information Retrieval
 publication_short: in "ACM SIGIR 2023"
@@ -34,8 +35,8 @@ abstract: Metro systems are vital to our daily lives, but they face safety or
   and instructions. MetroScope is a significant advancement in enhancing the
   safety and reliability of metro systems.
 draft: false
+url_video: https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3539618.3591807&file=SIGIR23-dep1141.mp4
 featured: false
-url_video: 'https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3539618.3591807&file=SIGIR23-dep1141.mp4'
 image:
   filename: metroscope.jpg
   focal_point: Smart
