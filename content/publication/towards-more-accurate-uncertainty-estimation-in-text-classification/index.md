@@ -11,8 +11,9 @@ authors:
   - admin
   - Bei Xiao
   - ChangTien Lu
-publication: "Proceedings of the 2020 Conference on Empirical Methods in Natural
-  Language Processing "
+doi: 10.18653/v1/2020.emnlp-main.671
+publication: Proceedings of the 2020 Conference on Empirical Methods in Natural
+  Language Processing (EMNLP)
 publication_short: in "EMNLP"
 abstract: The uncertainty measurement of classified results is especially
   important in areas requiring limited human resources for higher accuracy. For
@@ -32,7 +33,7 @@ abstract: The uncertainty measurement of classified results is especially
 draft: false
 featured: false
 image:
-  filename: emnlp.jpg
+  filename: https://aclanthology.org/2020.emnlp-main.671
   focal_point: Smart
   preview_only: false
 date: 2023-08-24T05:59:38.015Z
