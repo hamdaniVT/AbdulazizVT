@@ -31,5 +31,5 @@ image:
   filename: pristine.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-08-24T06:53:43.398Z
+date: 2022-08-24T06:53:43.398Z
 ---
