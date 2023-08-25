@@ -1,6 +1,6 @@
 ---
-title: "Dod-explainer: Explainable drug overdose deaths predictor from crime and
-  socioeconomic data"
+title: "DOD-Explainer: Explainable Drug Overdose Deaths Predictor from Crime and
+  Socioeconomic Data"
 publication_types:
   - "1"
 authors:
@@ -9,8 +9,9 @@ authors:
   - Lulwah Alkulaib
   - Chang-Tien Lu
 author_notes: []
+doi: 10.1109/BigData55660.2022.10021054
 publication: 2022 IEEE International Conference on Big Data (Big Data)
-publication_short: in "IEEE Big Data"
+publication_short: in "IEEE Big Data 2022"
 abstract: Drug overdose deaths are a dreadful crisis that leads to substantial
   societal impairments. Its harmful impact directly affects families and
   communities. To assist policymakers in mitigating this crisis, it is crucial
