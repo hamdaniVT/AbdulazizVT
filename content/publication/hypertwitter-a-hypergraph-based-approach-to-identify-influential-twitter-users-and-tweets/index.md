@@ -36,5 +36,5 @@ image:
   filename: bd22_lulu.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-08-24T16:40:09.182Z
+date: 2022-10-24T16:40:09.182Z
 ---
