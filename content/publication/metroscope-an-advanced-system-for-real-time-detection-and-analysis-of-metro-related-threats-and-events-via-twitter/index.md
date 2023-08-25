@@ -35,9 +35,10 @@ abstract: Metro systems are vital to our daily lives, but they face safety or
   safety and reliability of metro systems.
 draft: false
 featured: false
+url_video: 'https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3539618.3591807&file=SIGIR23-dep1141.mp4'
 image:
   filename: metroscope.jpg
   focal_point: Smart
   preview_only: false
-date: 2023-08-24T17:08:22.053Z
+date: 2023-05-24T17:08:22.053Z
 ---
