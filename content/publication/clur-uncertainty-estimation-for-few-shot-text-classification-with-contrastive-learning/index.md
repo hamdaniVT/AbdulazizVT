@@ -11,6 +11,7 @@ authors:
   - Fanglan Chen
   - Bei Xiao
   - Chang-Tien Lu
+doi: https://doi.org/10.1145/3580305.3599276
 publication: Proceedings of the 29th ACM SIGKDD Conference on Knowledge
   Discovery and Data Mining
 publication_short: in "ACM SIGKDD 2023"
