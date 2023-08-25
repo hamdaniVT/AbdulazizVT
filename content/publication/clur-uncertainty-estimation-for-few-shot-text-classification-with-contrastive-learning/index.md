@@ -40,6 +40,7 @@ abstract: Few-shot text classification has extensive application where the
   https://github.com/he159ok/CLUR_UncertaintyEst_FewShot_TextCls.
 draft: false
 featured: false
+url_video: https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3580305.3599276&file=rtfp0242-2min-promo.mp4
 image:
   filename: clur.jpg
   focal_point: Smart
