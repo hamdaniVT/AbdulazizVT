@@ -32,6 +32,7 @@ abstract: The uncertainty measurement of classified results is especially
   obtained.
 draft: false
 featured: false
+url_code: 'https://github.com/he159ok/Towards-More-Accurate-Uncertainty-Estimation-In-Text-Classification'
 url_video: 'https://slideslive.com/38938712/towards-more-accurate-uncertainty-estimation-in-text-classification'
 image:
   filename: emnlp.jpg
