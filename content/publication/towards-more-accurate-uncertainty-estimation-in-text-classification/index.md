@@ -33,7 +33,7 @@ abstract: The uncertainty measurement of classified results is especially
 draft: false
 featured: false
 image:
-  filename: https://aclanthology.org/2020.emnlp-main.671
+  filename: emnlp.jpg
   focal_point: Smart
   preview_only: false
 date: 2023-08-24T05:59:38.015Z
