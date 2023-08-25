@@ -7,6 +7,7 @@ authors:
   - Poorvesh Dongre
   - admin
   - Denis Gračanin
+doi: https://doi.org/10.1007/978-3-030-77599-5_44
 publication: International Conference on Human-Computer Interaction 2021
 publication_short: 'in "International HCI" '
 abstract: The COVID-19 pandemic has had a tremendous impact on businesses,
